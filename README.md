@@ -14,7 +14,7 @@ basis. This app starts the Equalizer if available and restores
 settings after a reboot.
 
 ## FAQ
-** Why doesn't it work?
+**Why doesn't it work?** 
 Make sure you have no additional equalizers installed. If Sysequal
 fails to load the Equalizer an error will show up in the app.
 
