@@ -14,7 +14,7 @@ basis. This app starts the EQ and restores
 settings after a reboot.
 
 ## Download
-- https://github.com/abertschi/sysequal/releases/download/latest/ch.abertschi.sysequal-1.0.apk
+- https://github.com/abertschi/sysequal/releases/download/1.0/ch.abertschi.sysequal-1.0.apk
 
 ## FAQ
 **Why doesn't it work?**  
