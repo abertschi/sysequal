@@ -13,6 +13,9 @@ always accessible system wide and limited to an per-application
 basis. This app starts the Equalizer if available and restores
 settings after a reboot.
 
+## Download
+- https://github.com/abertschi/sysequal/releases/download/latest/ch.abertschi.sysequal-1.0.apk
+
 ## FAQ
 **Why doesn't it work?**  
 Make sure you have no additional equalizers installed. If Sysequal
