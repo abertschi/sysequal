@@ -7,10 +7,10 @@
 <img src="./assets/cover.png" width="900">
 
 Sysequal (as in **Sys**tem **Equal**izer) is a small utility
-application which launches Android's builtin Equalizer. Most flavors of Android
+application which launches Android's builtin Equalizer. Many flavors of Android
 come with a decent Audio Equalizer builtin. The Equalizer is, however, not
 always accessible in the system settings and limited to an per-application
-basis. This app starts the Equalizer if available and restores
+basis. This app starts the Equalizer and restores
 settings after a reboot.
 
 ## Download
